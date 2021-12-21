@@ -25,6 +25,8 @@ Let me know if you have any more questions.
 
 Cal
 
+---
+
 Question 2: Hello,
 
 Sorry to give you the kind of feedback that I know you do not want to hear, but I really hate the new dashboard design. Clearing and deleting indexes are now several clicks away. I am needing to use these features while iterating, so this is inconvenient.
@@ -41,6 +43,8 @@ Additionally, we do expose [delete index](https://www.algolia.com/doc/api-refere
 
 Thanks,
 Cal
+
+---
 
 Question 3: Hi,
 
