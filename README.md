@@ -18,7 +18,7 @@ My feedback is overwhelmingly positive. I spent more time fiddling with my React
 
 ### My only issue:
 
-When I first got started I initially uploaded a different dataset which had over 10,000 records. I did this via the UI, and I knew from the docs that this should be okay for free users; if a dataset with over 10,000 records is uploaded then Alogia will happily index the first 10,000.
+When I first got started I initially uploaded a different dataset which had over 10,000 records. I did this via the UI, and I knew from the docs that this should be okay for free users; if a dataset with over 10,000 records is uploaded then Algolia will happily index the first 10,000.
 
 However, when I uploaded my data there was a red error that appeared, but the user flow I was in did not suggest that the first 10,000 records had ingested. I ended up leaving, finding a new smaller dataset, and when I came back to upload the new dataset I saw 10,000 records from my original dataset had successfully been added.
 
