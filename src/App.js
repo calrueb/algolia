@@ -10,10 +10,13 @@ const searchClient = algoliasearch(
 );
 
 const App = () => (
-  <InstantSearch indexName="test_billionaires" searchClient={searchClient}>
-    <SearchBox />
-    <Hits hitComponent={Hit} />
-  </InstantSearch>
+  <div>
+    <h1>Fake Forbes Billionaire List</h1>
+    <InstantSearch indexName="test_billionaires" searchClient={searchClient}>
+      <SearchBox />
+      <Hits hitComponent={Hit} />
+    </InstantSearch>
+  </div>
 );
 
 export default App;
