@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/algolia/static/css/main.e6c13ad2.css",
-    "main.js": "/algolia/static/js/main.e2b4e662.js",
+    "main.css": "/algolia/static/css/main.162ced5e.css",
+    "main.js": "/algolia/static/js/main.af1a007a.js",
     "static/js/787.b95d21ec.chunk.js": "/algolia/static/js/787.b95d21ec.chunk.js",
     "index.html": "/algolia/index.html",
-    "main.e6c13ad2.css.map": "/algolia/static/css/main.e6c13ad2.css.map",
-    "main.e2b4e662.js.map": "/algolia/static/js/main.e2b4e662.js.map",
+    "main.162ced5e.css.map": "/algolia/static/css/main.162ced5e.css.map",
+    "main.af1a007a.js.map": "/algolia/static/js/main.af1a007a.js.map",
     "787.b95d21ec.chunk.js.map": "/algolia/static/js/787.b95d21ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.e2b4e662.js"
+    "static/css/main.162ced5e.css",
+    "static/js/main.af1a007a.js"
   ]
 }
