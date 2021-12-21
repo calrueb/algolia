@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import algoliasearch from "algoliasearch/lite";
 import { InstantSearch, SearchBox, Hits } from "react-instantsearch-dom";
+import Hit from "./Hit";
 
 const searchClient = algoliasearch(
   "SH1EB5XM7P",
@@ -11,7 +12,7 @@ const searchClient = algoliasearch(
 const App = () => (
   <InstantSearch indexName="test_billionaires" searchClient={searchClient}>
     <SearchBox />
-    <Hits />
+    <Hits hitComponent={Hit} />
   </InstantSearch>
 );
 

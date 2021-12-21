@@ -1,5 +1,8 @@
 # Alogia Take Home Assignment
 
+Website: [calrueb.github.io/algolia/](https://calrueb.github.io/algolia/)
+Data source: [CORGIS Dataset Project](https://corgis-edu.github.io/corgis/json/billionaires/)
+
 ## About my app
 
 ## Feedback
