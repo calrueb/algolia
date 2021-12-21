@@ -22,6 +22,6 @@ When I first got started I initially uploaded a different dataset which had over
 
 However, when I uploaded my data there was a red error that appeared, but the user flow I was in did not suggest that the first 10,000 records had ingested. I ended up leaving, finding a new smaller dataset, and when I came back to upload the new dataset I saw 10,000 records from my original dataset had successfully been added.
 
-[error](error.png)
+![error](error.png)
 
 I wasn't able to repo the issue later on, but I believe I was in some sort of new-user/quick start flow.
